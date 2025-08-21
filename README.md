@@ -8,6 +8,7 @@ TCP port verification and performing HTTP GET requests. Tests also produce an HT
 - configuration done in config.json
 
 Environement setup:
+Python 3.13.7 : pip 25.2
 
  - python -m venv venv (python virtual environment)
  - pip install -r requirements.txt (all required dependencies)
