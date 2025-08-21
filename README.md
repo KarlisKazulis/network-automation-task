@@ -11,6 +11,7 @@ Environement setup:
 
  - python -m venv venv (python virtual environment)
  - pip install -r requirements.txt (all required dependencies)
+ - pytest --html=report.html --self-contained-html -v for tests to run and and generate HTML file.
 
 
 
