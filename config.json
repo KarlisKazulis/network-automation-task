@@ -1,0 +1,19 @@
+{
+  "hosts": [
+    "8.8.8.8",
+    "1.1.1.1",
+    "www.microsoft.com",
+    "www.wikipedia.org"
+  ],
+  "tcp_checks": [
+    {"host": "github.com", "port": 443},
+    {"host": "python.org", "port": 443}
+  ],
+  "urls": [
+    "https://www.github.com",
+    "https://www.example.com",
+    "https://www.python.org",
+    "https://www.reddit.com",
+    "https://www.stackoverflow.com"
+  ]
+}
