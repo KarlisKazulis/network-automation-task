@@ -11,3 +11,7 @@ Environement setup:
 
  - python -m venv venv (python virtual environment)
  - pip install -r requirements.txt (all required dependencies)
+
+
+
+<img width="1070" height="209" alt="network_test" src="https://github.com/user-attachments/assets/1e1b0700-af48-42b8-a16a-b34d453601b6" />
